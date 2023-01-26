@@ -1,0 +1,17 @@
+{
+  "name": "dmoney-b6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .\\report.js",
+    "report":"node .\\report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.11"
+  }
+}
