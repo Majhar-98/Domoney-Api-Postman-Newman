@@ -24,7 +24,7 @@
 - Newman
 
 ## Documentation:
-- Google drive link:
+- Google drive link:https://docs.google.com/spreadsheets/d/1XXIdrY2fAczTM0hihcEzJuUqz6_0RjKN/edit#gid=1759542802
 
 ## Bug Report:
  - Google drive link:
