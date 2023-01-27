@@ -24,7 +24,7 @@
 - Newman
 
 ## Documentation:
-- Google drive link : https://documenter.getpostman.com/view/13493263/2s8ZDeSJaV
+- https://documenter.getpostman.com/view/13493263/2s8ZDeSJaV
 
 ## Test Case Report:
 - Google drive link: : https://docs.google.com/spreadsheets/d/16xLqZ0hlrzBOgUi1ycc0qmeHtsuWxIJ9ToU1EQXnReM/edit?usp=sharing
