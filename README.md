@@ -24,7 +24,10 @@
 - Newman
 
 ## Documentation:
-- Google drive link:https://docs.google.com/spreadsheets/d/1XXIdrY2fAczTM0hihcEzJuUqz6_0RjKN/edit#gid=1759542802
+- Google drive link : https://documenter.getpostman.com/view/13493263/2s8ZDeSJaV
+
+## Test Case Report:
+- Google drive link: : https://docs.google.com/spreadsheets/d/16xLqZ0hlrzBOgUi1ycc0qmeHtsuWxIJ9ToU1EQXnReM/edit?usp=sharing
 
 ## Bug Report:
- - Google drive link:
+- Google drive link : https://docs.google.com/spreadsheets/d/184vyBlRGXPxwNUJN0Om9cscQ2AXfAU06/edit?usp=sharing&ouid=118369597748873082402&rtpof=true&sd=true
