@@ -9,7 +9,7 @@
 - Newman
 
 ## API Documentation:
-- Documentation link https://documenter.getpostman.com/view/13493263/2s8ZDeSJaV
+- Documentation link: https://documenter.getpostman.com/view/13493263/2s935mr4VE
 
 ## Test Case Report:
 - Google drive link: : https://docs.google.com/spreadsheets/d/16xLqZ0hlrzBOgUi1ycc0qmeHtsuWxIJ9ToU1EQXnReM/edit?usp=sharing
