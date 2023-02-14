@@ -1,4 +1,8 @@
 # domoney-postman-newman-api-testing
+
+## Brief Information about POSTMAN:
+POSTMAN is an API client used to develop, test, share and document APIs. It is used for backend testing where we enter the end-point URL, it sends the request to the server and receives the response back from the server. This is the main reason for which POSTMAN is used frequently by the developers and automation professionals to ensure that the service is up and running along with the build version of an API that is being deployed into the region.
+
 ## How to run this Project:
 - Clone this project
 - Open with any code editor / Command Shell
